@@ -33,6 +33,7 @@
     padding: .5rem;
     font-size: x-large;
     -webkit-tap-highlight-color: transparent;
+    z-index: 999;
 }
 
 .suggestedCities-list {
